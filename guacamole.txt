@@ -1,7 +1,9 @@
-6 avocados
+600 avocados
 lime 
 onions
 cilantro
 garlic
 salt
 tomatoes
+more onion
+more lime
