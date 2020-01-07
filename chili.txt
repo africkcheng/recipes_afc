@@ -5,3 +5,4 @@ garlic
 garlic 
 onions 
 corn
+cumin
